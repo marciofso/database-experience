@@ -3,7 +3,8 @@ Este é o primeiro bootcamp sobre Banco de Dados da DIO para profissionais que p
 
 Então:
 
- Módulo - Prepare-se para a jornada
+ *Módulo - Prepare-se para a jornada
+ 
 
  Curso : Conheça as Oportunidades da DIO
  
@@ -17,7 +18,9 @@ Então:
  
  Curso : Mentoria (Live) - Database Experience | Aula inaugural - 22/08/2022 ás 19h
  
- Módulo - Banco de Dados SQL
+ 
+ *Módulo - Banco de Dados SQL
+ 
 
  Curso : Contextualização do Cenário na Área de Banco de Dados
  
@@ -51,7 +54,9 @@ Então:
  
  Curso : Construa um Projeto Lógico de Banco de Dados do Zero
  
- Tópico - Bancos de Dados NoSQL
+ 
+ *Tópico - Bancos de Dados NoSQL
+ 
 
  Curso : Introdução ao MongoDB e Bancos de Dados NoSQL
  
